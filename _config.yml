@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: 'git'
   repo: 'https://github.com/iTommie/iTommie.github.io.git'
-  branch: blog
+  branch: master
