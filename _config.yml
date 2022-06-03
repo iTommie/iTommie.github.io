@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: '云深不知处'
 subtitle: ''
-description: ''
+description: '用来随意玩耍的小地盘'
 keywords:
-author: John Doe
-language: en
+author: Measured
+language: zh-CN
 timezone: ''
 
 # URL
@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'https://github.com/iTommie/iTommie.github.io.git'
+  repo: https://github.com/iTommie/iTommie.github.io.git
   branch: master
