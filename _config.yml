@@ -4,8 +4,8 @@
 
 # Site
 title: '云深不知处'
-subtitle: ''
-description: '用来随意玩耍的小地盘'
+subtitle: 
+description: '用来随意玩耍的小地盘，有趣的东西，有趣的人，有趣的事。'
 keywords:
 author: Measured
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://itommie.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

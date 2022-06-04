@@ -1,0 +1,9 @@
+- class_name: <div>友情链接</div>
+  class_desc: 一些小伙伴的后花园
+  link_list:
+    - name: 海茶子柒
+      link: https://blog.iik.moe
+      avatar: https://avatars.githubusercontent.com/u/3677708?v=4
+      # descr这里也可以写html
+      descr: 一个很热心且帅气的小伙伴
+    
